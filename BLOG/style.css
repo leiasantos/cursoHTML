@@ -1,0 +1,40 @@
+
+.main-header{
+    background-color: darkorange;
+    text-align: center;
+    padding: 10px;
+}
+
+
+.main-footer{
+    background-color:dodgerblue;
+    text-align: center;
+    padding: 15px;
+    color: aliceblue;
+    font-size: 20px;
+}
+
+.main-nav{
+    background-color: darkorchid;
+    padding: 10px;
+
+
+}
+
+ul{
+    list-style: none;
+    display: flex;
+  justify-content: space-around;
+  
+
+}
+ li a{
+    padding: 5px 10px;
+   color: aliceblue;
+}
+a{
+    text-decoration: none;
+    list-style: none;
+    
+}
+
